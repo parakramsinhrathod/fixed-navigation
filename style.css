@@ -65,7 +65,7 @@ a {
 section { 
     top: 0;
     height: 150vh;
-    background: url('/one.jpg');
+    background: url('./one.jpg');
     background-size: cover;
 }
 
